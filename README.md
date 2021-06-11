@@ -1,4 +1,4 @@
-# DBL Data Challenge
+# DBL Data Challenge Project
 TU/e Bachelor Data Science, DBL Data Challenge Q4, Group 17
 
 ## Features
