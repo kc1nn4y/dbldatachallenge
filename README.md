@@ -1,5 +1,5 @@
 # DBL Data Challenge
-Group 17 - TU/e Bachelor Data Science Year 1
+TU/e Bachelor Data Science, DBL Data Challenge Q4, Group 17
 
 ## Features
 
