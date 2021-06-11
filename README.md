@@ -29,7 +29,7 @@ When setting this up please ensure that you are matching the different parameter
 database_host = "localhost"
 database_name = "dbl_data_challenge"
 database_user = "admin"
-database_pass = "admin"
+database_pass = "vZtbqKNXGz27cQCH"
 ```
 
 ## Libraries
