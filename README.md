@@ -29,7 +29,7 @@ The Jupyter Notebooks that are created use a number of publicly available Python
 - [Searborn](https://pypi.org/project/seaborn/) - Statistical data visualization
 - [Nltk](https://pypi.org/project/nltk/) - Natural Language Toolkit
 - [Matplotlib](https://pypi.org/project/matplotlib/) - Plotting package
-- [JSON](https://docs.python.org/3/library/json.html) - Encoding basic Python object hierarchies
+- [Json](https://docs.python.org/3/library/json.html) - Encoding basic Python object hierarchies
 - [Os](https://docs.python.org/3/library/os.html) - A portable way of using operating system dependent functionality
 - [Time](https://docs.python.org/3/library/time.html) - Provides various time-related functions
 - [Re](https://docs.python.org/3/library/re.html) - Provides regular expression matching operations similar to those found in Perl
