@@ -36,11 +36,13 @@ The Jupyter Notebooks that are created use a number of publicly available Python
 - [Re](https://docs.python.org/3/library/re.html) - Provides regular expression matching operations similar to those found in Perl
 - [Strings](https://pypi.org/project/strings/) - Strings for humans
 
+## Dataset
+
 To download the exact twitter tweet dataset that was used to conduct research visit [this link](https://surfdrive.surf.nl/files/index.php/s/Dz082kih8yMGB5P).
 
 ## Installation
 
-This project requires the software mentioned in [Software](#software) to be installed. The libraries mentioned in [Libraries](#libraries) are also mandatory, however these will be automatically installed and imported within the Jupyter Notebooks.
+This project requires the software mentioned in [Software](#software) to be installed. The libraries mentioned in [Libraries](#libraries) are also mandatory, however these will be automatically installed and imported within the Jupyter Notebooks. The dataset that was used can be found and downloaded in [Dataset](#dataset), which will be needed for the code to run properly.
 
 ```py
 Python code here
