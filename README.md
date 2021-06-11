@@ -52,7 +52,7 @@ The Jupyter Notebooks that are created use a number of publicly available Python
 
 ## Dataset
 
-To download the exact twitter tweet dataset that was used to conduct research visit [this link](https://surfdrive.surf.nl/files/index.php/s/Dz082kih8yMGB5P). This dataset consists of 500+ files containing tweets in json format. Every single line in a file contains the data for a separate tweet.
+To download the exact twitter tweet dataset that was used to conduct research visit [this link](https://surfdrive.surf.nl/files/index.php/s/Dz082kih8yMGB5P). This dataset consists of 30GB of files containing 500+ files with tweets in json format. Every single line in a file contains the data for a separate tweet.
 
 ## Installation
 
