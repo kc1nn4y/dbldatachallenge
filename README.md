@@ -46,8 +46,9 @@ To download the exact twitter tweet dataset that was used to conduct research vi
 
 This project requires the software mentioned in [Software](#software) to be installed. The libraries mentioned in [Libraries](#libraries) are also mandatory, however these will be automatically installed and imported within the Jupyter Notebooks. The dataset that was used can be found and downloaded in [Dataset](#dataset), which will be needed for the code to run properly.
 
+Please run the Jupyter Notebooks in the following order:
 ```py
-Python code here
+1. Extract Tweets.ipynb
 ```
 
 ## License
