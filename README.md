@@ -40,7 +40,7 @@ To download the exact twitter tweet dataset that was used to conduct research vi
 
 ## Installation
 
-This project requires the software mentioned in [Software](#software) to be installed.
+This project requires the software mentioned in [Software](#software) to be installed. The libraries mentioned in [Libraries](#libraries) are also mandatory, however these will be automatically loaded installed and imported within the Jupyter Notebooks.
 
 ```py
 Python code here
