@@ -40,4 +40,12 @@ To download the exact twitter tweet dataset that was used to conduct research vi
 
 ## Installation
 
-This project requires the software mention in [Software](#software)
+This project requires the software mentioned in [Software](#software) to be installed.
+
+```py
+Python code here
+```
+
+## License
+
+TU/e
