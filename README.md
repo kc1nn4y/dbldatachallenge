@@ -15,7 +15,7 @@ This GitHub repo is designed to be able to efficiently load in our jupyter noteb
 ## Software
 
 - [Python 3](https://www.python.org/download/releases/3.0/) - An interpreted, object-oriented, high-level programming language with dynamic semantics
-- [Jupyter Notebook](https://jupyter.org/install) - An open source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text
+- [Jupyter Notebook](https://jupyter.org/install) - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text
 - [PostgreSQL](https://www.postgresql.org/download/) - An open source relational database management system
 
 ## Libraries
@@ -28,11 +28,16 @@ The Jupyter Notebooks that are created use a number of publicly available Python
 - [Sklearn](https://pypi.org/project/scikit-learn/) - A set of python modules for machine learning and data mining
 - [Searborn](https://pypi.org/project/seaborn/) - Statistical data visualization
 - [Nltk](https://pypi.org/project/nltk/) - Natural Language Toolkit
+- [Emoji](https://pypi.org/project/emoji/) - Emoji for Python
 - [Matplotlib](https://pypi.org/project/matplotlib/) - Plotting package
-- [Json](https://docs.python.org/3/library/json.html) - Encoding basic Python object hierarchies
+- [JSON](https://docs.python.org/3/library/json.html) - Encoding basic Python object hierarchies
 - [Os](https://docs.python.org/3/library/os.html) - A portable way of using operating system dependent functionality
 - [Time](https://docs.python.org/3/library/time.html) - Provides various time-related functions
 - [Re](https://docs.python.org/3/library/re.html) - Provides regular expression matching operations similar to those found in Perl
 - [Strings](https://pypi.org/project/strings/) - Strings for humans
 
 To download the exact twitter tweet dataset that was used to conduct research visit [this link](https://surfdrive.surf.nl/files/index.php/s/Dz082kih8yMGB5P).
+
+## Installation
+
+This project requires the software mention in [Software](#software)
