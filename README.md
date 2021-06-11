@@ -24,7 +24,7 @@ The following software was used during the project, these are all publicly avail
 
 Please follow [this](https://www.youtube.com/watch?v=O0WNoYO-29U) tutorial by the Youtuber Jinu Jawad M, in which he explains how to setup a database with PostgreSQL and how to setup a user together with a password.
 
-When setting this up please ensure that you are matching the different parameters (name, username, password) with the ones displayed below:
+When setting this up please ensure that you are matching the different parameters (name, username, password) with the ones displayed below.
 ```py
 database_host = "localhost"
 database_name = "dbl_data_challenge"
