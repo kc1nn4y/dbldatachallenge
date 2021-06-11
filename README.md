@@ -14,6 +14,8 @@ This GitHub repo is designed to be able to efficiently load in our jupyter noteb
 
 ## Software
 
+The following software was used during the project, these are all publicly available for free:
+
 - [Python 3](https://www.python.org/download/releases/3.0/) - An interpreted, object-oriented, high-level programming language with dynamic semantics
 - [Jupyter Notebook](https://jupyter.org/install) - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text
 - [PostgreSQL](https://www.postgresql.org/download/) - An open source relational database management system
