@@ -61,6 +61,7 @@ This project requires the software mentioned in [Software](#software) and [Setti
 Please run the Jupyter Notebooks in the following order:
 ```py
 1. Extract Tweets.ipynb
+2. Extract Conversations.ipynb
 ```
 
 ## License
