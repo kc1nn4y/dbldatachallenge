@@ -20,6 +20,18 @@ The following software was used during the project, these are all publicly avail
 - [Jupyter Notebook](https://jupyter.org/install) - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text
 - [PostgreSQL](https://www.postgresql.org/download/) - An open source relational database management system
 
+## Setting up the database
+
+Please follow [this](https://www.youtube.com/watch?v=O0WNoYO-29U) tutorial by the Youtuber Jinu Jawad M, in which he explains how to setup a database with PostgreSQL and how to setup a user together with a password.
+
+When setting this up please ensure that you are matching the different parameters (name, user, pass) with the ones displayed below:
+```py
+database_host = "localhost"
+database_name = "dbl_data_challenge"
+database_user = "admin"
+database_pass = "admin"
+```
+
 ## Libraries
 
 The Jupyter Notebooks that are created use a number of publicly available Python libraries to work properly:
