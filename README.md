@@ -52,7 +52,20 @@ The Jupyter Notebooks use a number of publicly available Python libraries to wor
 
 ## Dataset
 
-To download the exact twitter tweet dataset that was used to conduct research visit [this link](https://surfdrive.surf.nl/files/index.php/s/Dz082kih8yMGB5P). This dataset consists of 30GB of files containing 500+ files with tweets in json format. Every single line in a file contains the data for a separate tweet.
+To download the exact twitter tweet dataset that was used to conduct research visit [this link](https://surfdrive.surf.nl/files/index.php/s/Dz082kih8yMGB5P). This dataset consists of 30GB of files containing 500+ files with tweets in json format. Every single line in a file contains the data for a separate tweet. Please place these json files in a folder called data with the following structure:
+```
+dbl_data_challenge /
+    1. Extract Tweets.ipynb
+    2. Extract Conversations.ipynb
+    3. Extract Replies.ipynb
+    4. Extract Root Groups.ipynb
+    5. Extract ABA Groups.ipynb
+    data /
+        airlinetweets1.json
+        airlinetweets2.json
+        airlinetweets3.json
+        ...
+```
 
 ## Installation
 
