@@ -3,18 +3,17 @@ TU/e Bachelor Data Science 2021, DBL Data Challenge Q4 Year 1, Group 17
 
 ## Features
 
-- Import Twitter data in JSON format
-- Clean & filter these tweets
-- Export tweets to a database for releational querying
-- Create categories of tweets
-- Analyze tweet categories
-- Create visualizations
+- Loading in a big tweet dataset in json format
+- Cleaning & filtering of tweets
+- Relational database querying for optimal efficiency
+- Categorizing and analyzing tweets
+- Creating visualizations
 
-This GitHub repo is designed to be able to efficiently load in our jupyter notebooks and convert the data in a linear way. By following this guide we will guide you through this process.
+This GitHub repo is designed to be able to efficiently load our project consisting of Jupyter Notebooks and a large tweet dataset. This guide will guide you through the installation process.
 
 ## Software
 
-The following software was used during the project, these are all publicly available for free:
+The following software was used during the project and are required to be able to run this project:
 
 - [Python 3](https://www.python.org/download/releases/3.0/) - An interpreted, object-oriented, high-level programming language with dynamic semantics
 - [Jupyter Notebook](https://jupyter.org/install) - An open source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text
@@ -50,9 +49,11 @@ The Jupyter Notebooks use a number of publicly available Python libraries to wor
 - [Re](https://docs.python.org/3/library/re.html) - Provides regular expression matching operations similar to those found in Perl
 - [Strings](https://pypi.org/project/strings/) - Strings for humans
 
+More information relating to these libraries will be given in the [Information](#information) section down below.
+
 ## Dataset
 
-To download the exact twitter tweet dataset that was used to conduct research visit [this link](https://surfdrive.surf.nl/files/index.php/s/Dz082kih8yMGB5P). This dataset consists of 30GB of files containing 500+ files with tweets in json format. Every single line in a file contains the data for a separate tweet. Please place these json files in a folder called data with the following structure:
+To download the exact Twitter tweet dataset that was used to conduct research visit [this link](https://surfdrive.surf.nl/files/index.php/s/Dz082kih8yMGB5P). This dataset consists of 30GB of files containing 500+ files with tweets in json format. Every single line in a file contains the data for a separate tweet. Please place these json files in a folder called data with the following structure:
 ```
 dbl_data_challenge /
     1. Extract Tweets.ipynb
@@ -66,6 +67,7 @@ dbl_data_challenge /
         airlinetweets3.json
         ...
 ```
+If you want to make use of another dataset, please make sure that the files are in json format, every single line of the files contains a new tweet and finally make sure this data was obtained using Twitter API V1. Otherwise the data will very likely be incompatible with our program.
 
 ## Installation
 
