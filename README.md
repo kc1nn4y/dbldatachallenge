@@ -67,7 +67,7 @@ dbl_data_challenge /
         airlinetweets3.json
         ...
 ```
-If you want to make use of another dataset, please make sure that the files are in json format, every single line of the files contains a new tweet and finally make sure this data was obtained using Twitter API V1. Otherwise the data will very likely be incompatible with our program.
+If you want to make use of another dataset, please make sure that the files are in json format, every single line of the files contains a new tweet and finally make sure this data was obtained using Twitter API V1. Otherwise the data will very likely be incompatible with the current code.
 
 ## Installation
 
