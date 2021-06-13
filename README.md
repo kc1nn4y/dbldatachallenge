@@ -49,7 +49,7 @@ The Jupyter Notebooks use a number of publicly available Python libraries to wor
 - [Re](https://docs.python.org/3/library/re.html) - Provides regular expression matching operations similar to those found in Perl
 - [Strings](https://pypi.org/project/strings/) - Strings for humans
 
-More information relating to these libraries will be given in the [Information](#information) section down below.
+More information relating to these libraries will be given in the [Installation](#installation) section down below.
 
 ## Dataset
 
