@@ -1,5 +1,5 @@
 # DBL Data Challenge Project
-TU/e Bachelor Data Science, DBL Data Challenge Q4 Year 1 2021, Group 17
+TU/e Bachelor Data Science 2021, DBL Data Challenge Q4 Year 1, Group 17
 
 ## Features
 
@@ -82,4 +82,4 @@ Please run the Jupyter Notebooks in the following order:
 
 ## License
 
-TU/e
+TU/e 2021
