@@ -58,13 +58,10 @@ To download the exact Twitter tweet dataset that was used to conduct research vi
 dbl_data_challenge /
     1. Extract Tweets.ipynb
     2. Extract Conversations.ipynb
-    3. Extract Replies.ipynb
-    4. Extract Root Groups.ipynb
-    5. Extract ABA Groups.ipynb
+    ...
     data /
         airlinetweets1.json
         airlinetweets2.json
-        airlinetweets3.json
         ...
 ```
 If you want to make use of another dataset, please make sure that the files are in json format, every single line of the files contains a new tweet and finally make sure this data was obtained using Twitter API V1. Otherwise the data will very likely be incompatible with the current code.
