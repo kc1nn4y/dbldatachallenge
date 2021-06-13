@@ -34,7 +34,7 @@ database_pass = "vZtbqKNXGz27cQCH"
 
 ## Libraries
 
-The Jupyter Notebooks that are created use a number of publicly available Python libraries to work properly:
+The Jupyter Notebooks use a number of publicly available Python libraries to work properly:
 
 - [Psycopg2](https://pypi.org/project/psycopg2/) - PostgreSQL Database Adapter
 - [Pandas](https://pypi.org/project/pandas/) - Powerful data structures for data analysis, time series, and statistics
