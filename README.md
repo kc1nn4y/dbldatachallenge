@@ -68,7 +68,7 @@ If you want to make use of another dataset, please make sure that the files are 
 
 ## Installation
 
-This project requires the software mentioned in [Software](#software) and [Setting up the database](#setting-up-the-database) to be installed. The libraries mentioned in [Libraries](#libraries) are also mandatory, however these will be automatically installed and imported within the Jupyter Notebooks. The dataset that was used can be found and downloaded in the [Dataset](#dataset) section, also make sure to follow the instructions to ensure that the code to runs properly.
+This project requires the software mentioned in [Software](#software) and [Setting up the database](#setting-up-the-database) to be installed. The libraries mentioned in [Libraries](#libraries) are also mandatory, however these will be automatically installed and imported within the Jupyter Notebooks. The dataset that was used can be found and downloaded in the [Dataset](#dataset) section, also make sure to follow the instructions that are mentioned there to ensure that the code to runs properly.
 
 Please run the Jupyter Notebooks in the following order:
 ```py
