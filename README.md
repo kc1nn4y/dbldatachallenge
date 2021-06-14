@@ -1,5 +1,5 @@
 # DBL Data Challenge Project
-TU/e Bachelor Data Science 2021, DBL Data Challenge Q4 Year 1, Group 17
+TU/e Bachelor Data Science 2021 • DBL Data Challenge Q4 Year 1 • Group 17
 
 ## Features
 
