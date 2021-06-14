@@ -13,7 +13,7 @@ This GitHub repo is designed to be able to efficiently load our project consisti
 
 ## Software
 
-The following software was used during the project and are required to be able to run this project:
+The following software was used during the project and is required to be able to run this project:
 
 - [Python 3](https://www.python.org/download/releases/3.0/) - An interpreted, object-oriented, high-level programming language with dynamic semantics
 - [Jupyter Notebook](https://jupyter.org/install) - An open source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text
