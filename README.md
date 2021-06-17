@@ -41,6 +41,7 @@ The Jupyter Notebooks use a number of publicly available Python libraries to wor
 - [Sklearn](https://pypi.org/project/scikit-learn/) - A set of python modules for machine learning and data mining
 - [Searborn](https://pypi.org/project/seaborn/) - Statistical data visualization
 - [Nltk](https://pypi.org/project/nltk/) - Natural Language Toolkit
+- [Tensorflow](https://www.tensorflow.org/) - TensorFlow is an end-to-end open source platform for machine learning
 - [Emoji](https://pypi.org/project/emoji/) - Emoji for Python
 - [Matplotlib](https://pypi.org/project/matplotlib/) - Plotting package
 - [Json](https://docs.python.org/3/library/json.html) - Encoding basic Python object hierarchies
