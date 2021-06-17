@@ -7,7 +7,7 @@ The csv files are distributed among several WinRar archives, which can be unpack
 
 ## Choosing the corect timeframe parameters
 Use [this](https://www.unixtimestamp.com/index.php) website to convert a specific starting and end date to unix timestamps.  
-Be sure that these timestamps are in the format of miliseconds (13 digits).  
+Be sure that these timestamps are in the format of milliseconds (13 digits).  
   
 Insert the start date timestamp and end date timestamp into the following sections of the notebook:  
 ```py
