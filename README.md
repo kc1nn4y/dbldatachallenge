@@ -50,6 +50,7 @@ The Jupyter Notebooks use a number of publicly available Python libraries to wor
 - [Re](https://docs.python.org/3/library/re.html) - Provides regular expression matching operations similar to those found in Perl
 - [Statistics](https://docs.python.org/3/library/statistics.html) - Provides functions for calculating mathematical statistics of numeric data
 - [Strings](https://pypi.org/project/strings/) - Strings for humans
+- [Wordcloud](https://amueller.github.io/word_cloud/) - Create a world cloud
 
 More information related to these libraries will be given in the [Installation](#installation) section down below.
 
