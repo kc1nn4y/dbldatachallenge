@@ -47,6 +47,7 @@ The Jupyter Notebooks use a number of publicly available Python libraries to wor
 - [Os](https://docs.python.org/3/library/os.html) - A portable way of using operating system dependent functionality
 - [Time](https://docs.python.org/3/library/time.html) - Provides various time-related functions
 - [Re](https://docs.python.org/3/library/re.html) - Provides regular expression matching operations similar to those found in Perl
+- [Statistics](https://docs.python.org/3/library/statistics.html) - Provides functions for calculating mathematical statistics of numeric data
 - [Strings](https://pypi.org/project/strings/) - Strings for humans
 
 More information related to these libraries will be given in the [Installation](#installation) section down below.
